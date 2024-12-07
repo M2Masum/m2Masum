@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M2Masum
+- 👋 Hi, I’m @m2Masum
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning Laravel 
 - 💞️ I’m looking to collaborate on ...
